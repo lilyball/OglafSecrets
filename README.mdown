@@ -5,7 +5,7 @@ OglafSecrets is a Safari Extension that will reveal the hidden messages on each 
 
 Installation
 ------------
-First, if you haven't already, you need to [enable extensions][enable]. Once enabled, go to the [downloads section][downloads] and grab the latest version. Then just double-click the downloaded file and Safari will prompt you to install. Once installed, you'll need to reload any existing tabs in order to use the extension on those tabs.
+First, if you haven't already, you need to [enable extensions][enable]. Once enabled, go to the [downloads section][downloads] and grab the latest .safariextz file. Then just double-click the downloaded file and Safari will prompt you to install. Once installed, you'll need to reload any existing tabs in order to use the extension on those tabs.
 
 Usage
 -----
