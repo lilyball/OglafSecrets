@@ -42,6 +42,8 @@
 			<string>Some</string>
 		</dict>
 	</dict>
+	<key>Update Manifest URL</key>
+	<string>http://github.com/kballard/OglafSecrets/raw/master/oglaf_update.plist</string>
 	<key>Website</key>
 	<string>http://github.com/kballard/OglafSecrets</string>
 </dict>
