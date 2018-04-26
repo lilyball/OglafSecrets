@@ -4,6 +4,8 @@
 <dict>
 	<key>Author</key>
 	<string>Kevin Ballard</string>
+	<key>Builder Version</key>
+	<string>13605.1.33.1.4</string>
 	<key>CFBundleDisplayName</key>
 	<string>OglafSecrets</string>
 	<key>CFBundleIdentifier</key>
@@ -28,6 +30,8 @@
 	</dict>
 	<key>Description</key>
 	<string>Displays the secret messages in Oglaf comics</string>
+	<key>DeveloperIdentifier</key>
+	<string>49Q455H8H7</string>
 	<key>ExtensionInfoDictionaryVersion</key>
 	<string>1.0</string>
 	<key>Permissions</key>
