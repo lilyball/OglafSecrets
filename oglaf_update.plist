@@ -7,14 +7,14 @@
 		<dict>
 			<key>CFBundleIdentifier</key>
 			<string>com.tildesoft.safari.oglafsecrets</string>
-			<key>Developer Identifier</key>
-			<string>49Q455H8H7</string>
 			<key>CFBundleShortVersionString</key>
-			<string>1.0</string>
+			<string>1.1</string>
 			<key>CFBundleVersion</key>
 			<string>1</string>
+			<key>Developer Identifier</key>
+			<string>49Q455H8H7</string>
 			<key>URL</key>
-			<string>http://github.com/downloads/kballard/OglafSecrets/OglafSecrets_1.0.safariextz</string>
+			<string>https://github.com/kballard/OglafSecrets/releases/download/v1.1/OglafSecrets.safariextz</string>
 		</dict>
 	</array>
 </dict>
