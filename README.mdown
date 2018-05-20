@@ -5,7 +5,7 @@ OglafSecrets is a Safari Extension that will reveal the hidden messages on each 
 
 Installation
 ------------
-First, if you haven't already, you need to [enable extensions][enable]. Once enabled, go to the [downloads section][downloads] and grab the latest .safariextz file. Then just double-click the downloaded file and Safari will prompt you to install. Once installed, you'll need to reload any existing tabs in order to use the extension on those tabs.
+Go to the [latest release][] and download OglafSecrets.safariextz. Then just open the downloaded file and Safari will prompt you to install. Once installed, you'll need to reload any existing tabs in order to use the extension on those tabs.
 
 Usage
 -----
@@ -21,11 +21,11 @@ If you run into any problems, please file a GitHub issue, contact me [@eridius][
 
 Credits
 -------
-This extension is © 2010 Kevin Ballard and licensed under the MIT license.
+This extension is © 2010–2018 Kevin Ballard and licensed under the MIT license.
 
 License
 -------
-Copyright © 2010 Kevin Ballard
+Copyright © 2010–2018 Kevin Ballard
 
 Permission is hereby granted, free of charge, to any person
 obtaining a copy of this software and associated documentation
@@ -49,7 +49,6 @@ FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
 OTHER DEALINGS IN THE SOFTWARE.
 
 [Oglaf]: http://oglaf.com/
-[enable]: http://safariextensions.tumblr.com/post/680219521/post-how-to-enable-extensions-06-09-10
 [twitter]: http://www.twitter.com/eridius
 [email]: mailto:kevin@sb.org
-[downloads]: http://github.com/kballard/OglafSecrets/downloads
+[latest release]: https://github.com/kballard/OglafSecrets/releases/latest
